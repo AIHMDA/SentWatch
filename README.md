@@ -1,7 +1,7 @@
 # SentWatch Platform
 
-## Overordnet Form�l
-SentWatch er en intelligent sikkerhedsvagtstyringsplatform, der automatiserer planl�gning, jobfordeling og overv�gning af sikkerhedspersonale. Platformen er bygget til sikkerhedsvirksomheder, eventarrang�rer og virksomheder, der har brug for en effektiv og skalerbar l�sning til vagtstyring.
+## Overordnet Formål
+SentWatch er en intelligent sikkerhedsvagtstyringsplatform, der automatiserer planlægning, jobfordeling og overvågning af sikkerhedspersonale. Platformen er bygget til sikkerhedsvirksomheder, eventarrangører og virksomheder, der har brug for en effektiv og skalerbar løsning til vagtstyring.
 
 ## Teknisk Stack
 - **Frontend**: React + TypeScript
@@ -10,15 +10,15 @@ SentWatch er en intelligent sikkerhedsvagtstyringsplatform, der automatiserer pl
 - **Backend**: Supabase (PostgreSQL + Authentication)
 - **Sprog**: Multi-sprog support (Dansk, Engelsk, Arabisk)
 
-## Nuv�rende Status
+## Nuværende Status
 
-### Implementerede Features ?
-- **Brugergr�nseflader**:
+### Implementerede Features ✅
+- **Brugergrænseflader**:
   - Login/signup flow
   - Dashboard med KPI'er
-  - Vagtplanl�gger med drag-and-drop
+  - Vagtplanlægger med drag-and-drop
   - Brugeradministration
-  - Rapporteringsv�rkt�jer
+  - Rapporteringsværktøjer
 
 - **Funktionalitet**:
   - Autentificering
@@ -32,22 +32,22 @@ SentWatch er en intelligent sikkerhedsvagtstyringsplatform, der automatiserer pl
   - Kalenderintegration
   - Notifikationssystem
 
-### Under Udvikling ?
+### Under Udvikling 🚧
 - Integration med betalingssystem (Stripe)
 - SMS/email notifikationer
 - Mobile app version
 - To-faktor autentificering
-- Avanceret s�gning
+- Avanceret søgning
 
 ## Installation & Setup
 1. Clone repository
-2. Installer afh�ngigheder: `npm install`
-3. Opret en `.env` fil baseret p� `.env.example`
+2. Installer afhængigheder: `npm install`
+3. Opret en `.env` fil baseret på `.env.example`
 4. Start udviklings-serveren: `npm run dev`
 
 ## Projektplan
-| Milep�l | Status | Deadline |
+| Milepæl | Status | Deadline |
 |---|---|---|
-| Core funktionalitet | ? F�rdig | Marts 2025 |
-| Stripe-integration | ? I gang | April 2025 |
-| Mobile app MVP | ? Planlagt | Maj 2025 |
+| Core funktionalitet | ✅ Færdig | Marts 2025 |
+| Stripe-integration | 🔄 I gang | April 2025 |
+| Mobile app MVP | ⏳ Planlagt | Maj 2025 |
